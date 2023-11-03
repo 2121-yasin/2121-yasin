@@ -1,13 +1,13 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiraculoussoft.com%2Fasp-net-mvc%2F&psig=AOvVaw3fSuEHcmdTx1lCXHnxV-Ou&ust=1699071184275000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCr-sT7poIDFQAAAAAdAAAAABAJ)](https://2121-yasin.io)
 <h1 align="center">Hi 👋, I'm Yasin Honnolli</h1>
-<h3 align="center">A passionate Mobile developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2121-yasin&label=Profile%20views&color=0e75b6&style=flat" alt="2121-yasin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@yasinhonnolli" target="blank"><img src="https://img.shields.io/twitter/follow/@yasinhonnolli?logo=twitter&style=for-the-badge" alt="@yasinhonnolli" /></a> </p>
 
-- 💬 Ask me about **Android,.net**
+- 💬 Ask me about **Android,.net,React**
 
 - 📫 How to reach me **yasinhonnolli@gmail.com**
 
